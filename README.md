@@ -32,7 +32,7 @@ User Input → Validation → localStorage → Data Processing → Dashboard
 
 ## Demo
 
-https://thippapa.github.io/pj-demo/
+https://thippapa.github.io/lead-weight-dashboard/
 
 ## Future Improvements
 
